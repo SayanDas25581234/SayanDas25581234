@@ -1,0 +1,9 @@
+{
+	"ip":"koolguy1234.aternos.me",
+	"port": 22526,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register sayan2558",
+	"login-cmd":"/login sayan2558"
+}
